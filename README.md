@@ -1,2 +1,3 @@
 # CV_web3css
-Build a CV by web3css for Web Develope Class
+Build a CV for Web Developing Class
+Using html and w3css template
